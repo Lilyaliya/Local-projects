@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Drawings\Drawings\bin\Debug\Drawings.exe.config
+C:\Users\user\source\repos\Drawings\Drawings\bin\Debug\Drawings.exe
+C:\Users\user\source\repos\Drawings\Drawings\bin\Debug\Drawings.pdb
+C:\Users\user\source\repos\Drawings\Drawings\obj\Debug\Drawings.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Drawings\Drawings\obj\Debug\Drawings.exe
+C:\Users\user\source\repos\Drawings\Drawings\obj\Debug\Drawings.pdb
+C:\Users\user\source\repos\Drawings\Drawings\obj\Debug\Drawings.csproj.CoreCompileInputs.cache

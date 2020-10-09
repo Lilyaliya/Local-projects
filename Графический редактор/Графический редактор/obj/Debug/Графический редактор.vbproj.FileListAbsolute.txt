@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Графический редактор\Графический редактор\bin\Debug\Графический редактор.exe.config
+C:\Users\user\source\repos\Графический редактор\Графический редактор\bin\Debug\Графический редактор.exe
+C:\Users\user\source\repos\Графический редактор\Графический редактор\bin\Debug\Графический редактор.pdb
+C:\Users\user\source\repos\Графический редактор\Графический редактор\bin\Debug\Графический редактор.xml
+C:\Users\user\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический_редактор.Form1.resources
+C:\Users\user\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический_редактор.Resources.resources
+C:\Users\user\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.exe
+C:\Users\user\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.xml
+C:\Users\user\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.pdb

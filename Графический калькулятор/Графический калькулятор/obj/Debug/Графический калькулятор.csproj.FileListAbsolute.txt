@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\bin\Debug\Графический калькулятор.exe.config
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\bin\Debug\Графический калькулятор.exe
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\bin\Debug\Графический калькулятор.pdb
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\obj\Debug\Графический калькулятор.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\obj\Debug\Графический_калькулятор.Form1.resources
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\obj\Debug\Графический_калькулятор.Properties.Resources.resources
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\obj\Debug\Графический калькулятор.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\obj\Debug\Графический калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\obj\Debug\Графический калькулятор.exe
+C:\Users\user\source\repos\Графический калькулятор\Графический калькулятор\obj\Debug\Графический калькулятор.pdb

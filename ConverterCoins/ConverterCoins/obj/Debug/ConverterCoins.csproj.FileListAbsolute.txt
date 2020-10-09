@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\bin\Debug\ConverterCoins.exe.config
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\bin\Debug\ConverterCoins.exe
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\bin\Debug\ConverterCoins.pdb
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\obj\Debug\ConverterCoins.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\obj\Debug\ConverterCoins.Form1.resources
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\obj\Debug\ConverterCoins.Properties.Resources.resources
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\obj\Debug\ConverterCoins.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\obj\Debug\ConverterCoins.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\obj\Debug\ConverterCoins.exe
+C:\Users\User\source\repos\ConverterCoins\ConverterCoins\obj\Debug\ConverterCoins.pdb
